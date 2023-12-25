@@ -10,7 +10,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
-# Introduce a delay between requests
+# Introduce a delay between requests sgfsdf
 delay = 2  # Set the delay in seconds
 
 # Make the request using a Session object
