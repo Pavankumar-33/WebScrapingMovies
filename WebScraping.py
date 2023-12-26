@@ -24,6 +24,7 @@ if response.status_code == 200:
 
     # Extract relevant data from the HTML
     movie_data = soup.find_all('li', class_='ipc-metadata-list-summary-item')
+    #asdfa
 
     movie_name = []
     year = []
